@@ -1,0 +1,11 @@
+file,duration,speech_rate,avg_silence,pause_count,pitch_std,hesitations,task_score,task_type,transcript,anomaly_score,risk_flag
+sample_5.wav,6.408,2.965043695380774,0.0,0,874.2762,1,1.0,completion," Er, what was I saying? Oh right, the uh, medication time was missed again.",0.11994082677588935,1
+sample_8.wav,5.568,3.2327586206896552,0.0,0,956.2765,0,1.0,recall, My son called today. We had a nice talk about his new job in the city.,0.17970360318401096,1
+sample_7.wav,4.992,3.0048076923076925,0.0,0,945.192,0,1.0,recall," I, I forgot the name of the, the doctor we usually visit.",0.1877023517467839,1
+sample_9.wav,5.256,3.6149162861491626,0.352,1,736.8087,0,1.0,completion," Aw, I think I left the stove on. Or maybe not, I don't remember.",0.006448049365270991,1
+sample_2.wav,4.992,2.8044871794871793,0.0,0,907.7123,0,1.0,recall, I went to the grocery store today and bought some apples and oranges.,0.12697536354669287,1
+sample_3.wav,7.656,3.134796238244514,0.0,0,860.38116,2,1.0,naming," A, yesterday, I think I, um, misplaced my keys and couldn't find the, uh, right drawer.",0.07670142503524069,1
+sample_6.wav,5.376,2.790178571428571,0.832,1,1041.7222,0,1.0,naming," Today I cleaned the room, washed clothes and made tea. Felt good.",-0.025792197461083743,-1
+sample_10.wav,4.728,2.961082910321489,0.512,1,937.13477,0,1.0,naming, Went for a walk in the park. The flowers are blooming beautifully.,0.1084553112958771,1
+sample_1.wav,6.864,3.6421911421911424,0.0,0,836.55493,2,0.0,recall," Um, I was going to the, uh, the place where we usually go, but I forgot what it's called.",-0.09688332743265549,-1
+sample_4.wav,4.728,3.17258883248731,0.0,0,1009.8066,0,1.0,recall," I had lunch with my friend, and we talked about our college days.",0.149018953351301,1
